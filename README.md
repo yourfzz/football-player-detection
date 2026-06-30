@@ -1,6 +1,6 @@
 # Football Player Detection
 
-![Demo](output_videos/output-video.mp4)
+https://github.com/user-attachments/assets/b492a9f9-3d41-4c03-a827-a21bc85455ad
 
 A computer vision project for detecting football players in images and video. This repository includes training and inference support for a player detection model, along with utilities for data preparation, evaluation, and visualization.
 
