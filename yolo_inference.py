@@ -535,7 +535,7 @@ def process_video():
     out.release()
 
     print("\n🎬 Finished.")
-    print(f"📁 Saved to: {OUTPUT_VIDEO}")
+    print(f"📁 Saved tod: {OUTPUT_VIDEO}")
     print(f"📊 Final Count: {dict(team_count)}")
 
 # =========================================================
