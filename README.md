@@ -1,4 +1,4 @@
-# Football Player Detection
+# Football Players Detection
 
 https://github.com/user-attachments/assets/b492a9f9-3d41-4c03-a827-a21bc85455ad
 
